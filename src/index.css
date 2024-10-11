@@ -1,0 +1,14 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+.body{
+background-image: url('https://media.licdn.com/dms/image/D5612AQHE3UO0g2-fdQ/article-cover_image-shrink_600_2000/0/1681308777371?e=2147483647&v=beta&t=0bANP7XQVIhbw359KEYg1ddekPgW-hqi5fn46JeWYJI');
+background-repeat: no-repeat;
+background-size:cover;
+}
+.input{
+  border: 2px solid black ;
+  border-radius: 5px;
+}
